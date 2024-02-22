@@ -5,17 +5,15 @@ namespace Pascal
         public Form1()
         {
             InitializeComponent();
-            for (int sor = 0; sor < 10; sor++)
+            for (int i = 0; i < 10; i++)
             {
-                for (int oszlop = 0; oszlop <= 10; oszlop++)
+                for (int j = 0; j <= 10; j++)
                 {
                     Button b = new Button();
-                    b.Top = sor * 60;
-                    b.Left = oszlop * 60;
-                    b.Height = 60;
-                    b.Width = 60;
+                    b.Top = i * 40;
+                    b.Left = j * 80;
                     this.Controls.Add(b);
-                    int p = Faktorialis(sor) / (Faktorialis(oszlop) * (Faktorialis(sor - oszlop)));
+                    int p = Faktorialis(i) / (Faktorialis(j) * (Faktorialis(i - j)));
                     b.Text = p.ToString();
                 }
             }
@@ -24,8 +22,10 @@ namespace Pascal
         int Faktorialis(int n)
         {
             int eredmény = 1;
-            for (int i = 1; i <= n; i++) eredmény *= i;
-
+            for (int i = 1; i <= n; i++)
+            {
+                eredmény *= i;
+            }
             return eredmény;
         }
     }
