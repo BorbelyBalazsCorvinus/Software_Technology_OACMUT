@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szoft_ABCDEF", "Szoft_ABCDE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szorzotabla", "Szorzotabla\Szorzotabla.csproj", "{CD2FA192-AA4F-4521-95D4-8D34FD211003}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{4BC04683-136E-4AFA-8B69-476F7EB926FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CD2FA192-AA4F-4521-95D4-8D34FD211003}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD2FA192-AA4F-4521-95D4-8D34FD211003}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD2FA192-AA4F-4521-95D4-8D34FD211003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC04683-136E-4AFA-8B69-476F7EB926FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC04683-136E-4AFA-8B69-476F7EB926FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC04683-136E-4AFA-8B69-476F7EB926FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC04683-136E-4AFA-8B69-476F7EB926FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
