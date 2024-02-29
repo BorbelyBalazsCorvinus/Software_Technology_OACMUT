@@ -13,7 +13,7 @@ namespace Gyakorlo
             {
                 for (int i = 1; i < 11; i++)
                 {
-                    VillogoGomb uj = new VillogoGomb();
+                    SzamoloGomb uj = new SzamoloGomb();
                     uj.Height = 50;
                     uj.Width = 100;
                     uj.Left = i * 110;
