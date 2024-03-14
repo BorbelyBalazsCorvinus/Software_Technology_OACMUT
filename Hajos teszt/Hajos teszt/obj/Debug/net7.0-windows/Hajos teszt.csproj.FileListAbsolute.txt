@@ -1,0 +1,17 @@
+C:\Users\oacmut\Downloads\Hajos teszt\Hajos teszt\obj\Debug\net7.0-windows\Hajos teszt.csproj.AssemblyReference.cache
+C:\Users\oacmut\Downloads\Hajos teszt\Hajos teszt\obj\Debug\net7.0-windows\Hajos_teszt.Form1.resources
+C:\Users\oacmut\Downloads\Hajos teszt\Hajos teszt\obj\Debug\net7.0-windows\Hajos teszt.csproj.GenerateResource.cache
+C:\Users\oacmut\Downloads\Hajos teszt\Hajos teszt\obj\Debug\net7.0-windows\Hajos teszt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oacmut\Downloads\Hajos teszt\Hajos teszt\obj\Debug\net7.0-windows\Hajos teszt.AssemblyInfoInputs.cache
+C:\Users\oacmut\Downloads\Hajos teszt\Hajos teszt\obj\Debug\net7.0-windows\Hajos teszt.AssemblyInfo.cs
+C:\Users\oacmut\Downloads\Hajos teszt\Hajos teszt\obj\Debug\net7.0-windows\Hajos teszt.csproj.CoreCompileInputs.cache
+C:\Users\oacmut\Downloads\Hajos teszt\Hajos teszt\bin\Debug\net7.0-windows\Hajos teszt.exe
+C:\Users\oacmut\Downloads\Hajos teszt\Hajos teszt\bin\Debug\net7.0-windows\Hajos teszt.deps.json
+C:\Users\oacmut\Downloads\Hajos teszt\Hajos teszt\bin\Debug\net7.0-windows\Hajos teszt.runtimeconfig.json
+C:\Users\oacmut\Downloads\Hajos teszt\Hajos teszt\bin\Debug\net7.0-windows\Hajos teszt.dll
+C:\Users\oacmut\Downloads\Hajos teszt\Hajos teszt\bin\Debug\net7.0-windows\Hajos teszt.pdb
+C:\Users\oacmut\Downloads\Hajos teszt\Hajos teszt\obj\Debug\net7.0-windows\Hajos teszt.dll
+C:\Users\oacmut\Downloads\Hajos teszt\Hajos teszt\obj\Debug\net7.0-windows\refint\Hajos teszt.dll
+C:\Users\oacmut\Downloads\Hajos teszt\Hajos teszt\obj\Debug\net7.0-windows\Hajos teszt.pdb
+C:\Users\oacmut\Downloads\Hajos teszt\Hajos teszt\obj\Debug\net7.0-windows\Hajos teszt.genruntimeconfig.cache
+C:\Users\oacmut\Downloads\Hajos teszt\Hajos teszt\obj\Debug\net7.0-windows\ref\Hajos teszt.dll
