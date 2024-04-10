@@ -14,6 +14,6 @@ namespace Hajos_teszt
         public string Valasz3 { get; set; }
         public string URL { get; set; }
         public int HelyesValasz { get; set; }
-        public int KerdesValaszokSzama { get; set; }
+        public int HelyesValaszokSzama { get; set; }
     }
 }

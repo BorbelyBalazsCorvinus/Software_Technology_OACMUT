@@ -8,19 +8,24 @@
     "net7.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\oacmut\\.nuget\\packages\\": {}
+    "C:\\Users\\21bal\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oacmut\\Downloads\\Hajos teszt\\Hajos teszt\\Hajos teszt.csproj",
+      "projectUniqueName": "C:\\Users\\21bal\\Source\\Repos\\BorbelyBalazsCorvinus\\Szoft_OACMUT\\Hajos teszt\\Hajos teszt\\Hajos teszt.csproj",
       "projectName": "Hajos teszt",
-      "projectPath": "C:\\Users\\oacmut\\Downloads\\Hajos teszt\\Hajos teszt\\Hajos teszt.csproj",
-      "packagesPath": "C:\\Users\\oacmut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oacmut\\Downloads\\Hajos teszt\\Hajos teszt\\obj\\",
+      "projectPath": "C:\\Users\\21bal\\Source\\Repos\\BorbelyBalazsCorvinus\\Szoft_OACMUT\\Hajos teszt\\Hajos teszt\\Hajos teszt.csproj",
+      "packagesPath": "C:\\Users\\21bal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\21bal\\Source\\Repos\\BorbelyBalazsCorvinus\\Szoft_OACMUT\\Hajos teszt\\Hajos teszt\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\oacmut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\21bal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

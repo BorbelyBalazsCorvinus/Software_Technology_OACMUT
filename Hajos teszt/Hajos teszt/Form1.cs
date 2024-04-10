@@ -6,6 +6,7 @@ namespace Hajos_teszt
         List<Kerdes> AktivKerdesek;
         int AktivKerdes = 5;
         int szamlalo = 0;
+        public static bool jo = false;
         public Form1()
         {
             InitializeComponent();
@@ -28,7 +29,7 @@ namespace Hajos_teszt
                         Valasz3 = tomb[4],
                         URL = tomb[5]
                     };
-                    int.TryParse(tomb[6], out int jovalasz); //ha nem sikerul parseolni a tomb6-ot akkor a jovalaszt adja
+                    int.TryParse(tomb[6], out int jovalasz); //ha sikerul parseolni a tomb6-ot akkor a jovalaszt adja
                     k.HelyesValasz = jovalasz;
                     kerdesek.Add(k);
                 }
@@ -53,6 +54,24 @@ namespace Hajos_teszt
             valaszGomb1.Text = kerdes.Valasz1;
             valaszGomb2.Text = kerdes.Valasz2;
             valaszGomb3.Text = kerdes.Valasz3;
+            if (kerdes.HelyesValasz == 1)
+            {
+                valaszGomb1.HelyesE = true;
+                valaszGomb2.HelyesE = false;
+                valaszGomb3.HelyesE = false;
+            }
+            else if (kerdes.HelyesValasz == 2)
+            {
+                valaszGomb2.HelyesE = true;
+                valaszGomb1.HelyesE = false;
+                valaszGomb3.HelyesE = false;
+            }
+            else
+            {
+                valaszGomb3.HelyesE = true;
+                valaszGomb1.HelyesE = false;
+                valaszGomb2.HelyesE = false;
+            }
             if (!string.IsNullOrEmpty(kerdes.URL))
             {
                 pictureBox1.Load("https://storage.altinum.hu/hajo/" + kerdes.URL);
@@ -62,13 +81,25 @@ namespace Hajos_teszt
             {
                 pictureBox1.Visible = false;
             }
+            if (Form1.jo)
+            {
+                kerdes.HelyesValaszokSzama++;
+            }
+            if (kerdes.HelyesValaszokSzama == 3)
+            {
+                AktivKerdesek.Remove(kerdes);
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
+            valaszGomb1.BackColor = Color.LightGray;
+            valaszGomb2.BackColor = Color.LightGray;
+            valaszGomb3.BackColor = Color.LightGray;
+            ValaszGomb.voltE = false;
             KerdesMegjelenites(AktivKerdesek[szamlalo]);
             szamlalo++;
-            if (szamlalo == 7)
+            if (szamlalo == AktivKerdesek.Count)
             {
                 szamlalo = 0;
             }
