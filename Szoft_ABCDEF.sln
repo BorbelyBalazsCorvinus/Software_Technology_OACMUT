@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Veletlen", "Veletlen\Veletl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HaromSzog", "HaromSzog\HaromSzog.csproj", "{E8D47636-F803-4D45-919F-9DF72931F95E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZHGyak2", "ZHGyak2\ZHGyak2.csproj", "{8175C432-189A-4832-8ACC-A13D64226842}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZHGyak2", "ZHGyak2\ZHGyak2.csproj", "{8175C432-189A-4832-8ACC-A13D64226842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MintaZH2", "MintaZH2\MintaZH2.csproj", "{F01FABF2-9156-47EF-B629-9CAB1B75D25E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +61,10 @@ Global
 		{8175C432-189A-4832-8ACC-A13D64226842}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8175C432-189A-4832-8ACC-A13D64226842}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8175C432-189A-4832-8ACC-A13D64226842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01FABF2-9156-47EF-B629-9CAB1B75D25E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01FABF2-9156-47EF-B629-9CAB1B75D25E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01FABF2-9156-47EF-B629-9CAB1B75D25E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01FABF2-9156-47EF-B629-9CAB1B75D25E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
