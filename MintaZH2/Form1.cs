@@ -78,6 +78,7 @@ namespace MintaZH2
             {
                 bindingSource1.Add(ujsor.ujrekord);
             }
+
         }
 
         private void button5_Click(object sender, EventArgs e)

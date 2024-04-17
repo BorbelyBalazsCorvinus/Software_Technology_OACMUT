@@ -20,26 +20,10 @@ namespace MintaZH2
 
         private void Form2_Load(object sender, EventArgs e)
         {
-
+            versenyzoBindingSource.DataSource = ujrekord;
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
-            try
-            {
-                ujrekord.VersenyzoID = int.Parse(textBox1.Text);
-                ujrekord.Nev = textBox2.Text;
-                ujrekord.Nemzetiseg = textBox3.Text;
-                ujrekord.EredmenyPerc = int.Parse(textBox4.Text);
-                ujrekord.Kategoria = textBox5.Text;
-
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Valami hiba történt!\n{ex.Message}", "Hiba", MessageBoxButtons.OK, MessageBoxIcon.Error);
-
-            }
-
         }
     }
 }

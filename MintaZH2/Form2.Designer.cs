@@ -47,6 +47,7 @@
             // textBox1
             // 
             textBox1.DataBindings.Add(new Binding("DataContext", versenyzoBindingSource, "VersenyzoID", true));
+            textBox1.DataBindings.Add(new Binding("Text", versenyzoBindingSource, "VersenyzoID", true));
             textBox1.Location = new Point(40, 113);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(448, 39);
