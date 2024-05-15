@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adatkotes", "Adatkotes\Adat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adatb", "Adatb\Adatb.csproj", "{03237968-D360-44B1-BEEF-CDBDCD07C114}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gyak11", "gyak11\gyak11.csproj", "{1C292FAB-FC91-44BC-95D4-D520AA1C4EB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gyak11", "gyak11\gyak11.csproj", "{1C292FAB-FC91-44BC-95D4-D520AA1C4EB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "utsozhgyak", "utsozhgyak\utsozhgyak.csproj", "{41475D5A-AF74-4914-A00E-679234A87C3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +75,14 @@ Global
 		{03237968-D360-44B1-BEEF-CDBDCD07C114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03237968-D360-44B1-BEEF-CDBDCD07C114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03237968-D360-44B1-BEEF-CDBDCD07C114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C292FAB-FC91-44BC-95D4-D520AA1C4EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C292FAB-FC91-44BC-95D4-D520AA1C4EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C292FAB-FC91-44BC-95D4-D520AA1C4EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C292FAB-FC91-44BC-95D4-D520AA1C4EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41475D5A-AF74-4914-A00E-679234A87C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41475D5A-AF74-4914-A00E-679234A87C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41475D5A-AF74-4914-A00E-679234A87C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41475D5A-AF74-4914-A00E-679234A87C3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
