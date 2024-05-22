@@ -1,0 +1,17 @@
+C:\Users\21bal\Downloads\fhh\fhh\bin\Debug\net7.0-windows\fhh.exe
+C:\Users\21bal\Downloads\fhh\fhh\bin\Debug\net7.0-windows\fhh.deps.json
+C:\Users\21bal\Downloads\fhh\fhh\bin\Debug\net7.0-windows\fhh.runtimeconfig.json
+C:\Users\21bal\Downloads\fhh\fhh\bin\Debug\net7.0-windows\fhh.dll
+C:\Users\21bal\Downloads\fhh\fhh\bin\Debug\net7.0-windows\fhh.pdb
+C:\Users\21bal\Downloads\fhh\fhh\obj\Debug\net7.0-windows\fhh.Form1.resources
+C:\Users\21bal\Downloads\fhh\fhh\obj\Debug\net7.0-windows\fhh.csproj.GenerateResource.cache
+C:\Users\21bal\Downloads\fhh\fhh\obj\Debug\net7.0-windows\fhh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21bal\Downloads\fhh\fhh\obj\Debug\net7.0-windows\fhh.AssemblyInfoInputs.cache
+C:\Users\21bal\Downloads\fhh\fhh\obj\Debug\net7.0-windows\fhh.AssemblyInfo.cs
+C:\Users\21bal\Downloads\fhh\fhh\obj\Debug\net7.0-windows\fhh.csproj.CoreCompileInputs.cache
+C:\Users\21bal\Downloads\fhh\fhh\obj\Debug\net7.0-windows\fhh.dll
+C:\Users\21bal\Downloads\fhh\fhh\obj\Debug\net7.0-windows\refint\fhh.dll
+C:\Users\21bal\Downloads\fhh\fhh\obj\Debug\net7.0-windows\fhh.pdb
+C:\Users\21bal\Downloads\fhh\fhh\obj\Debug\net7.0-windows\fhh.genruntimeconfig.cache
+C:\Users\21bal\Downloads\fhh\fhh\obj\Debug\net7.0-windows\ref\fhh.dll
+C:\Users\21bal\Downloads\fhh\fhh\bin\Debug\net7.0-windows\szavak.txt
