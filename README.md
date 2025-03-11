@@ -1,4 +1,4 @@
-# Szoftver Technológia - Software Technology
+# Szoftver Technológia
 Ez a tantárgy a **Windows Forms** alkalmazások fejlesztésével foglalkozik **Visual Studio** és **C#** használatával.
 
 ### Témakörök
